@@ -1,6 +1,6 @@
 # MVP - Front
 
-Este pequeno projeto faz parte do MVP da Disciplina **Desenvolvimento Full Stack Básico** 
+Este pequeno projeto faz parte do MVP da Disciplina **Arquitetura de Software** 
 
 
 
